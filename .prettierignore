@@ -1,0 +1,32 @@
+# Ignore build output
+/.next
+
+# Ignore node_modules
+/node_modules
+
+# Ignore generated files
+/*.js
+/*.d.ts
+/*.js.map
+/*.css
+/*.css.map
+
+# Ignore test files
+/__tests__
+/*.test.ts
+/*.test.tsx
+
+# Ignore coverage reports
+/coverage
+
+# Ignore storybook files
+/.storybook
+/storybook-static
+
+# Ignore public folder
+/public
+
+# Ignore .env files
+.env*
+# Ignore package-lock
+/package-lock.json
