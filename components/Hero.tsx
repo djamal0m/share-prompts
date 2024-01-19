@@ -1,3 +1,3 @@
 export default function Hero(): JSX.Element {
-  return <div className="hero">Hero</div>;
+  return <div className="">Hero</div>;
 }

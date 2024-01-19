@@ -10,7 +10,7 @@
     "quotes": ["error", "double"],
     "no-console": "warn",
     "no-alert": "warn",
-    "no-unused-vars": "warn",
+    "no-unused-vars": "off",
     "react/react-in-jsx-scope": "off",
     "react/prop-types": "off",
     "react-hooks/rules-of-hooks": "error",
@@ -24,7 +24,7 @@
     "no-unreachable-loop": "error",
     "no-use-before-define": "error",
     "sort-vars": "warn",
-    "require-await": "error"
+    "require-await": "warn"
   },
   "settings": {
     "react": {

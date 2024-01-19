@@ -1,0 +1,45 @@
+{"level":"debug","message":"Successfully connected to MOngoDB..."}
+{"level":"debug","message":"Successfully connected to MOngoDB..."}
+{"level":"debug","message":"Successfully connected to MOngoDB..."}
+{"level":"debug","message":"Successfully connected to MOngoDB..."}
+{"level":"debug","message":"Successfully connected to MOngoDB..."}
+{"level":"debug","message":"Successfully connected to MOngoDB..."}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:04:55"}
+{"level":"error","message":"Error connecting to database:  Operation `users.findOne()` buffering timed out after 10000ms","stack":"MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/djamal0m/Documents/Code/share-prompts/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:186:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"19-01-2024 16:05:06"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:06:30"}
+{"level":"error","message":"Error connecting to database:  Operation `users.findOne()` buffering timed out after 10000ms","stack":"MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/djamal0m/Documents/Code/share-prompts/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:186:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"19-01-2024 16:06:40"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:10:49"}
+{"level":"error","message":"Error connecting to database:  Operation `users.findOne()` buffering timed out after 10000ms","stack":"MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/djamal0m/Documents/Code/share-prompts/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:186:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"19-01-2024 16:10:59"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:11:09"}
+{"level":"error","message":"Error connecting to database:  Operation `users.findOne()` buffering timed out after 10000ms","stack":"MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/djamal0m/Documents/Code/share-prompts/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:186:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"19-01-2024 16:11:19"}
+{"email":"djamalmoustapha1@gmail.com","id":"109819652614924093542","image":"https://lh3.googleusercontent.com/a/ACg8ocIlCKz8KZpIoObtj5r3JX9CJ7XZ7V-YGnb8VzV10mlo4w=s96-c","level":"info","message":"user","name":"Djamal Moustapha","timestamp":"19-01-2024 16:13:29"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:13:31"}
+{"level":"error","message":"Error connecting to database:  Operation `users.findOne()` buffering timed out after 10000ms","stack":"MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/djamal0m/Documents/Code/share-prompts/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:186:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"19-01-2024 16:13:41"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:15:11"}
+{"level":"info","message":"email: ","timestamp":"19-01-2024 16:15:11"}
+{"level":"error","message":"Error connecting to database:  Operation `users.findOne()` buffering timed out after 10000ms","stack":"MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/djamal0m/Documents/Code/share-prompts/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:186:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"19-01-2024 16:15:21"}
+{"level":"info","message":"email before try: ","timestamp":"19-01-2024 16:17:20"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:17:21"}
+{"level":"info","message":"email unside try: ","timestamp":"19-01-2024 16:17:21"}
+{"level":"error","message":"Error connecting to database:  Operation `users.findOne()` buffering timed out after 10000ms","stack":"MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/djamal0m/Documents/Code/share-prompts/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:186:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"19-01-2024 16:17:31"}
+{"level":"info","message":"email before try: ","timestamp":"19-01-2024 16:24:41"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:24:42"}
+{"level":"info","message":"email inside try: ","timestamp":"19-01-2024 16:24:42"}
+{"level":"error","message":"Error connecting to database:  Operation `users.findOne()` buffering timed out after 10000ms","stack":"MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/djamal0m/Documents/Code/share-prompts/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:186:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"19-01-2024 16:24:52"}
+{"level":"info","message":"email before try: ","timestamp":"19-01-2024 16:26:38"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:26:39"}
+{"level":"info","message":"email inside try: ","timestamp":"19-01-2024 16:26:39"}
+{"level":"error","message":"Error connecting to database:  Operation `users.findOne()` buffering timed out after 10000ms","stack":"MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/djamal0m/Documents/Code/share-prompts/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:186:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"19-01-2024 16:26:49"}
+{"level":"info","message":"email from userObj: ","timestamp":"19-01-2024 16:30:17"}
+{"level":"info","message":"email from profile: ","timestamp":"19-01-2024 16:30:17"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:30:18"}
+{"level":"error","message":"Error connecting to database:  Operation `users.findOne()` buffering timed out after 10000ms","stack":"MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/djamal0m/Documents/Code/share-prompts/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:186:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"19-01-2024 16:30:28"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:34:49"}
+{"level":"error","message":"Error connecting to database:  Operation `users.findOne()` buffering timed out after 10000ms","stack":"MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/Users/djamal0m/Documents/Code/share-prompts/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:186:23)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)","timestamp":"19-01-2024 16:34:59"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:36:25"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:39:13"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:41:19"}
+{"email":"djamalmoustapha1@gmail.com","id":"109819652614924093542","image":"https://lh3.googleusercontent.com/a/ACg8ocIlCKz8KZpIoObtj5r3JX9CJ7XZ7V-YGnb8VzV10mlo4w=s96-c","level":"debug","message":"user: ","name":"Djamal Moustapha","timestamp":"19-01-2024 16:43:02"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:43:02"}
+{"level":"debug","message":"user: [object Object]","timestamp":"19-01-2024 16:53:22"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:53:23"}
