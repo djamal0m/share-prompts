@@ -43,3 +43,258 @@
 {"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:43:02"}
 {"level":"debug","message":"user: [object Object]","timestamp":"19-01-2024 16:53:22"}
 {"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"19-01-2024 16:53:23"}
+{"level":"debug","message":"user: [object Object]","timestamp":"20-01-2024 02:07:34"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"20-01-2024 02:07:35"}
+{"level":"debug","message":"user: [object Object]","timestamp":"20-01-2024 02:11:37"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"20-01-2024 02:11:37"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"20-01-2024 02:16:30"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"20-01-2024 21:40:41"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"22-01-2024 19:50:13"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"22-01-2024 20:25:31"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"22-01-2024 21:39:59"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"22-01-2024 22:48:33"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"22-01-2024 23:01:04"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 01:27:44"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 01:30:56"}
+{"level":"debug","message":"response: ","timestamp":"23-01-2024 01:59:31"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 01:59:31"}
+{"level":"debug","message":"Response: [object Object], req: [object Request]","timestamp":"23-01-2024 02:08:28"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 02:08:28"}
+{"level":"debug","message":"Response: undefined, req: [object ReadableStream]","timestamp":"23-01-2024 02:20:43"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 02:20:44"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 14:07:00"}
+{"level":"debug","message":"Response: undefined, req: [object ReadableStream]","timestamp":"23-01-2024 14:09:27"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 14:09:27"}
+{"level":"debug","message":"Response: undefined, req: [object ReadableStream]","timestamp":"23-01-2024 14:11:45"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 14:11:45"}
+{"level":"debug","message":"req: [object ReadableStream]","timestamp":"23-01-2024 14:24:52"}
+{"level":"debug","message":"Creator: undefined, Prompt: undefined, Tag: undefined","timestamp":"23-01-2024 14:24:52"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 14:24:52"}
+{"level":"debug","message":"req: [object Request]","timestamp":"23-01-2024 14:25:44"}
+{"level":"debug","message":"Creator: undefined, Prompt: undefined, Tag: undefined","timestamp":"23-01-2024 14:25:44"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 14:25:44"}
+{"level":"debug","message":"req: [object Request]","timestamp":"23-01-2024 14:28:16"}
+{"level":"debug","message":"Creator: undefined, Prompt: undefined, Tag: undefined","timestamp":"23-01-2024 14:28:16"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 14:28:16"}
+{"level":"debug","message":"req: [object Request]","timestamp":"23-01-2024 14:30:20"}
+{"level":"debug","message":"Creator: undefined, Prompt: undefined, Tag: undefined","timestamp":"23-01-2024 14:30:20"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 14:30:20"}
+{"level":"debug","message":"req body: [object ReadableStream]","timestamp":"23-01-2024 14:37:26"}
+{"level":"debug","message":"Creator: undefined, Prompt: undefined, Tag: undefined","timestamp":"23-01-2024 14:37:26"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 14:37:26"}
+{"level":"debug","message":"req body: [object Promise]","timestamp":"23-01-2024 14:38:46"}
+{"level":"debug","message":"Creator: undefined, Prompt: undefined, Tag: undefined","timestamp":"23-01-2024 14:38:46"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 14:38:46"}
+{"level":"debug","message":"req body: [object Promise]","timestamp":"23-01-2024 14:42:09"}
+{"level":"debug","message":"req body: [object Promise]","timestamp":"23-01-2024 14:49:35"}
+{"level":"debug","message":"req body: [object Promise]","timestamp":"23-01-2024 14:50:15"}
+{"level":"debug","message":"req body: [object Promise]","timestamp":"23-01-2024 14:52:46"}
+{"level":"debug","message":"request body: [object Promise]","timestamp":"23-01-2024 15:00:29"}
+{"level":"debug","message":"request body: [object Promise]","timestamp":"23-01-2024 15:10:54"}
+{"level":"debug","message":"request body: [object Promise]","timestamp":"23-01-2024 15:14:06"}
+{"level":"debug","message":"request body: {\"creator\":\"65aa97a2e4d25a2abf6aed6c\",\"prompt\":\"test2\",\"tag\":\"#test\"}","timestamp":"23-01-2024 15:18:15"}
+{"level":"debug","message":"request body: {\"creator\":\"65aa97a2e4d25a2abf6aed6c\",\"prompt\":\"test2\",\"tag\":\"#test\"}","timestamp":"23-01-2024 15:19:20"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 15:19:20"}
+{"$__":{"activePaths":{"paths":{"_id":"default","creator":"modify","prompt":"modify","tag":"modify"},"states":{"default":{"_id":true},"modify":{"creator":true,"prompt":true,"tag":true},"require":{}}}},"_doc":{"_id":"65afcae82946fbc2b7e17244","creator":"65aa97a2e4d25a2abf6aed6c","prompt":"test2","tag":"#test"},"level":"debug","message":"newPrompt: ","timestamp":"23-01-2024 15:19:20"}
+{"level":"debug","message":"request body: {\"creator\":\"65aa97a2e4d25a2abf6aed6c\",\"prompt\":\"Tell me how life emerged on earth\",\"tag\":\"#life\"}","timestamp":"23-01-2024 15:24:47"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 15:24:47"}
+{"$__":{"activePaths":{"paths":{"_id":"default","creator":"modify","prompt":"modify","tag":"modify"},"states":{"default":{"_id":true},"modify":{"creator":true,"prompt":true,"tag":true},"require":{}}}},"_doc":{"_id":"65afcc2f2946fbc2b7e17248","creator":"65aa97a2e4d25a2abf6aed6c","prompt":"Tell me how life emerged on earth","tag":"#life"},"level":"debug","message":"newPrompt: ","timestamp":"23-01-2024 15:24:47"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 15:29:42"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 16:15:37"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 16:15:37"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 16:20:55"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 16:20:59"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 16:21:12"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 16:21:17"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 16:21:18"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 18:31:19"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 18:31:21"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 18:34:05"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 18:34:06"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 18:38:08"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 18:38:09"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 19:08:55"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 19:08:57"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 19:08:57"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 20:16:11"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"23-01-2024 20:16:11"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"24-01-2024 23:41:28"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"24-01-2024 23:41:28"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"24-01-2024 23:42:14"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"24-01-2024 23:42:15"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"24-01-2024 23:42:15"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"24-01-2024 23:42:31"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"24-01-2024 23:42:31"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"24-01-2024 23:42:31"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 00:57:47"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 00:57:47"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 01:01:10"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 01:01:10"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 01:53:36"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 01:53:38"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 01:55:40"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 01:55:40"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 01:56:10"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 01:56:11"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 02:04:59"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 02:05:00"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 02:05:04"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 02:05:04"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 02:13:19"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 02:13:20"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 02:13:21"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 02:13:22"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 02:15:25"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 02:15:25"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 02:15:35"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 02:15:36"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 02:25:06"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 02:25:07"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 02:25:09"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 02:25:09"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 14:19:48"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 14:19:48"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 14:21:46"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 14:21:46"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 16:26:03"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 16:26:03"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:13:13"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:13:13"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:13:17"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:13:17"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:16:06"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:16:12"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:16:12"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:16:20"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:16:21"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:16:25"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:16:26"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:17:38"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:17:38"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:17:40"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:17:40"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:21:25"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:21:25"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:21:27"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:21:28"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:21:32"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:21:33"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:26:22"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:26:22"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:26:24"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:26:24"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:27:20"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:27:21"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:27:23"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:27:23"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:28:18"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:28:19"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:28:24"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:28:25"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:30:27"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:30:27"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:30:30"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:30:30"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:37:57"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:37:57"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:38:00"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:38:01"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:38:05"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:38:06"}
+{"level":"debug","message":"prompt: test-edit, tag: #test","timestamp":"25-01-2024 17:38:12"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:38:12"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","creator":"init","prompt":"init","tag":"init"},"states":{"init":{"__v":true,"_id":true,"creator":true,"prompt":true,"tag":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"65afcae82946fbc2b7e17244","creator":"65aa97a2e4d25a2abf6aed6c","prompt":"test2","tag":"#test"},"level":"debug","message":"prompExists: ","timestamp":"25-01-2024 17:38:12"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:38:12"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:38:13"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:38:54"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:39:00"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:39:00"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:39:10"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:39:10"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:39:24"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:39:24"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:40:12"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:40:12"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:40:31"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:40:32"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:40:33"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:40:52"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:40:53"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:40:53"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:41:12"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"25-01-2024 17:41:12"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 01:00:49"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 01:47:20"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 01:57:47"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 01:57:52"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 01:57:53"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 01:58:38"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 01:58:40"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 02:11:10"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 02:11:10"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 02:44:24"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 02:51:47"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 03:16:43"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 04:02:02"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 04:11:51"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 04:11:52"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 04:17:08"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 04:17:08"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 04:22:16"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 04:24:22"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 04:24:23"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 04:25:10"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 04:29:24"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 04:31:02"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"26-01-2024 04:31:38"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 01:00:34"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 01:00:35"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 01:00:57"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 01:00:57"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 01:02:21"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 01:05:03"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 01:09:11"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 01:09:11"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 01:09:14"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 01:09:15"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 01:48:20"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 01:48:20"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 01:55:34"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 01:55:36"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 01:55:36"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 01:55:40"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 01:55:40"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 02:08:29"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 02:10:30"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 02:13:18"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 02:15:02"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 02:20:10"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 02:27:28"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 02:32:40"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 02:32:41"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"28-01-2024 02:40:27"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:17:53"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:17:54"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:18:06"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:18:06"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:18:17"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:18:17"}
+{"level":"debug","message":"prompt: test-edit_success, tag: #test","timestamp":"05-02-2024 22:18:28"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:18:28"}
+{"$__":{"activePaths":{"paths":{"__v":"init","_id":"init","creator":"init","prompt":"init","tag":"init"},"states":{"init":{"__v":true,"_id":true,"creator":true,"prompt":true,"tag":true},"require":{}}},"skipId":true},"$isNew":false,"_doc":{"__v":0,"_id":"65afcae82946fbc2b7e17244","creator":"65aa97a2e4d25a2abf6aed6c","prompt":"test-edit","tag":"#test"},"level":"debug","message":"prompExists: ","timestamp":"05-02-2024 22:18:28"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:18:28"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:18:28"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:21:11"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:21:11"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:21:13"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:21:13"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:22:34"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:22:34"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:22:38"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:22:39"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:40:05"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:40:05"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:42:51"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:42:52"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:42:58"}
+{"level":"debug","message":"Successfully connected to MOngoDB...","timestamp":"05-02-2024 22:42:58"}

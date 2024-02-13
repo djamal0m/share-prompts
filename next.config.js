@@ -1,19 +1,18 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   experimental: {
-    appDir: true,
-    serverComponentsExternalPackages: ["mongoose"],
+    serverComponentsExternalPackages: ["mongoose"]
   },
   images: {
     remotePatterns:[{
         protocol: "https",
-        hostname: "**.googleusercontent.com",
+        hostname: "**.googleusercontent.com"
   }],
 },
   webpack(config) {
     config.experiments = {
       ...config.experiments,
-      topLevelAwait: true,
+      topLevelAwait: true
     }
     return config
   }

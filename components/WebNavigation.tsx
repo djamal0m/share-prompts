@@ -6,12 +6,12 @@ import Link from "next/link";
 export default function WebNavigation({
   session,
   providers
-}: WebNavigationPropsType): JSX.Element {
+}: WebNavigationPropsType): React.ReactNode {
   return (
     <div className="sm:flex hidden">
       {session?.user ? (
         <div className="flex gap-3 md:gap-5">
-          <Link href="/create-new-prompt" className="black_btn">
+          <Link href="/create-prompt" className="black_btn">
             Create prompt
           </Link>
 

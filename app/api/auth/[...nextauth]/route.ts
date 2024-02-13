@@ -12,7 +12,7 @@ const handler = NextAuth({
     })
   ],
   callbacks: {
-    async session({ session, token, user }) {
+    async session({ session, token }) {
       const sessionUser = await User.findOne({ email: session?.user?.email });
       if (session && session.user) {
         session.user.id = sessionUser?._id?.toString();
@@ -22,7 +22,6 @@ const handler = NextAuth({
     },
     async signIn({ user }) {
       if (!user) return false;
-      logger.debug(`user: ${user}`);
       try {
         await dbConnect();
         const userExists = await User.findOne({

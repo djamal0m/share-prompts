@@ -1,3 +1,5 @@
+import Feed from "@/components/Feed";
+
 export default function Home(): JSX.Element {
   return (
     <section className="w-full flex-center flex-col">
@@ -10,6 +12,7 @@ export default function Home(): JSX.Element {
         Share-Prompts is an open-source AI prompting for modern world to
         discover, create and share creative prompts.
       </p>
+      <Feed />
     </section>
   );
 }
