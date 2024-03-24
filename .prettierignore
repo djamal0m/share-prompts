@@ -27,6 +27,7 @@
 /public
 
 # Ignore .env files
+.env
 .env*
 # Ignore package-lock
 /package-lock.json
